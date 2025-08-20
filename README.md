@@ -1,2 +1,14 @@
-# property-react-app
-Develop a dynamic event management portal using React and AWS Lambda, where users can create, view, and filter events. Users should be able to select from two template styles before filling out the form.
+
+# Property App Starter
+
+Features:
+- List properties
+- Filter by city, type, and price range
+- Add new property
+- View property details
+
+## Quick Start
+```bash
+npm install
+npm run dev
+```
